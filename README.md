@@ -18,7 +18,7 @@ Later, the project will create a stacking pool, and a NFT platform. </p>
 
 <p>With all these informations we didn’t detect any vulnerabilities. We recommend to renounce contract ownership and lock liquidity to ensure holder investment.</p>
 
-<p><a href="https://github.com/SpyOnCrypto/SafeAkita-Audit/blob/main/SPYONCRYPTO%20-%20Audit%20SAFEAKITA.pdf">➡️ Please Check out the complete Audit to have further information on SafeAkita token</a></p>
+<p><a href="https://github.com/SpyOnCrypto/SafeAkita-Audit/blob/main/SafeAkita-Audit.pdf">➡️ Please Check out the complete Audit to have further information on SafeAkita token</a></p>
 
 <h4>SAFEAKITA Social Media :</h4>
 
