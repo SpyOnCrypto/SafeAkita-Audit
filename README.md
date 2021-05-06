@@ -1,6 +1,4 @@
 <img src="https://github.com/SpyOnCrypto/SafeAkita-Audit/blob/main/header.png" alt="SafeAkita-Audit GitHub README header image">
-<p><a href="https://www.twitter.com/Safe_AkitaOFF"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://t.me/SafeAkitaOfficial"><img src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25></a> <a href=""><img src="https://img.shields.io/badge/Website-%23E4405F.svg?&style=for-the-badge&logoColor=white" height=25></a></p>
-
   
 <h2>SafeAkita Audit Overview</h2>
 
@@ -21,6 +19,10 @@ Later, the project will create a stacking pool, and a NFT platform. </p>
 <p>With all these informations we didn’t detect any vulnerabilities. We recommend to renounce contract ownership and lock liquidity to ensure holder investment.</p>
 
 <p><a href="https://github.com/SpyOnCrypto/SafeAkita-Audit/blob/main/SafeAkita-Audit.pdf">➡️ Please Check out the complete Audit to have further information on SafeAkita token</a></p>
+
+<h4>SAFEAKITA Social Media :</h4>
+
+<p><a href="https://www.twitter.com/Safe_AkitaOFF"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://t.me/SafeAkitaOfficial"><img src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25></a> <a href="https://safe-akita.com"><img src="https://img.shields.io/badge/Website-%23E4405F.svg?&style=for-the-badge&logoColor=white" height=25></a></p>
 
 <h2>Spy on Crypto Disclaimer</h2>
 
